@@ -6,5 +6,6 @@ public class Main {
         int a = 10;
         System.out.println("Конец");
         int d = 2;
+        System.out.println("Новое начало");
     }
 }
