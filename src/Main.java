@@ -3,5 +3,7 @@ public class Main {
         int f = 1;
         System.out.println("Начало программы");
         System.out.println("Середина программы");
+        int a = 10;
+        System.out.println("Конец");
     }
 }
