@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Середина программы");
         int a = 10;
         System.out.println("Конец");
+        int d = 2;
     }
 }
