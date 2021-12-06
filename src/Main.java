@@ -6,5 +6,7 @@ public class Main {
         int a = 10;
         System.out.println("Конец");
         int d = 2;
+        d = a - f;
+        
     }
 }
